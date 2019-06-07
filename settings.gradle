@@ -1,0 +1,5 @@
+rootProject.name = 'mpp'
+include 'core'
+include 'client'
+include 'web'
+
